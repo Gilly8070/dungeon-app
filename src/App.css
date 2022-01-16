@@ -1,0 +1,17 @@
+.card {
+    width: 400px;
+    margin-bottom: 15px;
+    padding: 8px;
+    box-shadow: #eeeeee 1px 1px 1px;
+}
+
+.card input {
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.card .label {
+    font-size: 20px;
+}
